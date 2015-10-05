@@ -1,0 +1,22 @@
+Windows Registry Editor Version 5.00
+
+; Base16 Yin (https://github.com/chriskempson/base16)
+; Scheme: Drew Flower (http://github.com/drewvanstone)
+
+[HKEY_CURRENT_USER\Console]
+"ColorTable00"=dword:00FFFFFF
+"ColorTable01"=dword:00222222
+"ColorTable02"=dword:00777777
+"ColorTable03"=dword:00222222
+"ColorTable04"=dword:00777777
+"ColorTable05"=dword:00222222
+"ColorTable06"=dword:00777777
+"ColorTable07"=dword:00BBBBBB
+"ColorTable08"=dword:00BBBBBB
+"ColorTable09"=dword:00222222
+"ColorTable10"=dword:00777777
+"ColorTable11"=dword:00222222
+"ColorTable12"=dword:00777777
+"ColorTable13"=dword:00777777
+"ColorTable14"=dword:00777777
+"ColorTable15"=dword:00222222

@@ -1,0 +1,19 @@
+scheme: "Yin"
+author: "Drew Flower (http://github.com/drewvanstone)"
+base00: "FFFFFF" # White
+base01: "EEEEEE" # Lightest gray
+base02: "DDDDDD" # Lighter gray
+base03: "BBBBBB" # Bright White
+base04: "BBBBBB" # Light gray
+base05: "555555" # Black
+base06: "777777" # Darkest gray
+base07: "222222" # Bright Black
+
+base08: "777777" # Red
+base09: "777777" # Bright red
+base0A: "777777" # Yellow
+base0B: "777777" # Green
+base0C: "222222" # Cyan (black)
+base0D: "222222" # Blue (black)
+base0E: "222222" # Magenta (black)
+base0F: "777777" # Brown? (Lighteest )

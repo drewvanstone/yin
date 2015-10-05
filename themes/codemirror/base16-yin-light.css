@@ -1,0 +1,33 @@
+/*
+
+    Name:       Base16 Yin Light
+    Author:     Drew Flower (http://github.com/drewvanstone)
+
+    CodeMirror template by Jan T. Sott (https://github.com/idleberg)
+    Original Base16 color scheme by Chris Kempson (https://github.com/chriskempson/base16)
+
+*/
+
+.cm-s-base16-yin-light.CodeMirror {background: #222222; color: #EEEEEE;}
+.cm-s-base16-yin-light div.CodeMirror-selected {background: #777777 !important;}
+.cm-s-base16-yin-light .CodeMirror-gutters {background: #222222; border-right: 0px;}
+.cm-s-base16-yin-light .CodeMirror-linenumber {color: #BBBBBB;}
+.cm-s-base16-yin-light .CodeMirror-cursor {border-left: 1px solid #BBBBBB !important;}
+
+.cm-s-base16-yin-light span.cm-comment {color: #777777;}
+.cm-s-base16-yin-light span.cm-atom {color: #222222;}
+.cm-s-base16-yin-light span.cm-number {color: #222222;}
+
+.cm-s-base16-yin-light span.cm-property, .cm-s-base16-yin-light span.cm-attribute {color: #777777;}
+.cm-s-base16-yin-light span.cm-keyword {color: #777777;}
+.cm-s-base16-yin-light span.cm-string {color: #777777;}
+
+.cm-s-base16-yin-light span.cm-variable {color: #777777;}
+.cm-s-base16-yin-light span.cm-variable-2 {color: #222222;}
+.cm-s-base16-yin-light span.cm-def {color: #777777;}
+.cm-s-base16-yin-light span.cm-error {background: #777777; color: #BBBBBB;}
+.cm-s-base16-yin-light span.cm-bracket {color: #EEEEEE;}
+.cm-s-base16-yin-light span.cm-tag {color: #777777;}
+.cm-s-base16-yin-light span.cm-link {color: #222222;}
+
+.cm-s-base16-yin-light .CodeMirror-matchingbracket { text-decoration: underline; color: white !important;}
